@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" alt="gif" height="250" data-canonical-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  />
 </div>
+
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" style="max-width: 100%;">
@@ -9,6 +11,23 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/kapramci1/count.svg?"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
 
 # 💫 About Me:
 I graduated from Medipol University MIS department in July 2021. <br>I took part in Web UI projects as a Software Support Specialist at Digilera Information Technologies. <br>I'm currently working as an IT Integration Operations Specialist at Vodafone.<br><br>I am interested in Data Analysis and Data science. <br>I'm also trying to improve myself on Devops.
