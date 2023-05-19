@@ -1,8 +1,14 @@
+<div align="center">
 <img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" alt="gif" height="250" data-canonical-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" style="max-width: 100%;">
+</div>
 
-<img src="https://camo.githubusercontent.com/24f8bc4e6d1ca3fa40d3e0a6bb7f5d9241abc65ab7db51ca171b80bd91727471/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6b617072616d6369312f636f756e742e7376673f" data-canonical-src="https://profile-counter.glitch.me/isikmert74/count.svg?" style="max-width: 100%;">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kapramci1/count.svg?"  />
+</div>
 
 # 💫 About Me:
 I graduated from Medipol University MIS department in July 2021. <br>I took part in Web UI projects as a Software Support Specialist at Digilera Information Technologies. <br>I'm currently working as an IT Integration Operations Specialist at Vodafone.<br><br>I am interested in Data Analysis and Data science. <br>I'm also trying to improve myself on Devops.
