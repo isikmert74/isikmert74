@@ -1,6 +1,9 @@
 # 💫 About Me:
 I graduated from Medipol University MIS department in July 2021. <br>I took part in Web UI projects as a Software Support Specialist at Digilera Information Technologies. <br>I'm currently working as an IT Integration Operations Specialist at Vodafone.<br><br>I am interested in Data Analysis and Data science. <br>I'm also trying to improve myself on Devops.
 
+[![](https://visitcount.itsvg.in/api?id=isikmert74&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mert-işık-719239173/) 
@@ -13,6 +16,5 @@ I graduated from Medipol University MIS department in July 2021. <br>I took part
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isikmert74&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=isikmert74&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
