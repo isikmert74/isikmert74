@@ -1,8 +1,9 @@
+<img src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966" alt="gif" height="250" data-canonical-src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" style="max-width: 100%;">
+
 # 💫 About Me:
 I graduated from Medipol University MIS department in July 2021. <br>I took part in Web UI projects as a Software Support Specialist at Digilera Information Technologies. <br>I'm currently working as an IT Integration Operations Specialist at Vodafone.<br><br>I am interested in Data Analysis and Data science. <br>I'm also trying to improve myself on Devops.
-
-<img src="[C:\Users\user\Desktop](https://www.google.com/search?q=github+gifleri&sxsrf=APwXEdfX3EQOA9Bh9kCwwXLQaf9Zn-4gFg:1684518905074&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN8dD3-YH_AhXTX_EDHXcMDUgQ_AUoAXoECAIQAw&biw=1920&bih=961&dpr=1#imgrc=e9hPImsTmTzH1M&imgdii=LOz2HHLgKx2CDM)" width="auto">
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mert-işık-719239173/) 
